@@ -18,7 +18,7 @@ The gourmand like to eat out for dinner every night.
 The little dragon maiden has been depicted in diverse styles.
 The school's faculty ['fæklti] is responsible for teaching the students.
 I squeeze the fruit's pulp into juice.
-There are a myriad of colored bars.
+There are a myriad ['mɪriəd] of colored bars.
 People often apply quotation from Shakespeare.
 Although blind people are deficient of sight, they have extra sensitive hearing.
 To my consternation, my car wouldn't start this morning.
@@ -30,7 +30,7 @@ The viscous honey dripped down slowly.
 The addition of the blue solution serve to catalyze the reaction between the oil and soap.
 He reads the Gospel ['ɡɑːspl] for inspiration every night before bed.
 The dismal weather indicates that the rain is comming.
-Many cows eat grass on the prairie.
+Many cows eat grass on the prairie ['preri].
 People can use machines to plow the field now.
 Darwin hypothesized that life evolves because better adapted life forms pass on their genes.
 Olive trees can grow in semiarid areas with little rainfall.
@@ -92,7 +92,7 @@ We're being diverted from the road, but we'll get back to it soon.
 Cardinals are called 'Eminence' ['emɪnəns] because of their high status within the church.
 Animals can graze safely in the enclosure.
 Barbed wire encompassed [ɪn'kʌmpəs] the perimeter (周长) of the prison.
-We endanger pandas by destroying their habitat.
+We endanger pandas by destroying their habitat ['hæbɪtæt].
 This money went towards the endowment for our school.
 I've never read a more engaging book.
 The judge's decision was equitable [ek'weɪtəbl] to everyone involved.
@@ -102,7 +102,7 @@ The city is hit by extensive flooding.
 That faucet is dripping a little.
 A good carnival dress has to be flamboyant [flæm'bɔɪənt].
 Driven by thirst, she gulped down the bottle at once.
-Harmonic orchestral effects are very pleasing to our ears.
+Harmonic orchestral [ɔːr'kestrəl] effects are very pleasing to our ears.
 Hands should be washed with soap to improve hygiene.
 Immigration has increased due to the financial crisis.
 We were shocked by their indifference toward poverty.
@@ -123,15 +123,15 @@ Each year millions of migratory birds come to our country.
 A good fruit salad will mingle flavors of many different types of fruit.
 He was negligent in his duty to provide his girlfriend with intimacy.
 The factory's smoke is noxious and bad for our health.
-A nucleus is the center of an atom.
+A nucleus ['nuːkliəs] 原子核 is the center of an atom.
 I was surprised to find that the occupant of the car was my good friend.
 He was too outspoken, so she taped his mouth shut.
 How could I have missed my bosses' email? What a horrible oversight!
 What a beautiful sight -- cows grazing peacefully on a green pasture ['pɑːstʃə(r)].
 With a good knowledge of physiology we can keep our bodies healthy.
 She pinches the fat on her thigh [θaɪ].
-Pollen carried by bees is responsible for the reproduction of flowers.
-His proficiency with guitar was obvious.
+Pollen ['pɑːlən] carried by bees is responsible for the reproduction of flowers.
+His proficiency with guitar was obvious ['ɑːbviəs].
 This projection of our future sales looks very healthy.
 The construction was ratified as being in accordance with the building code.
 Recollection gets harder as you get older.
@@ -145,7 +145,7 @@ This castle is substantially built to repel attackers.
 These soldiers use modern tactics to repel enemies.
 Tilting to either side will affect the balance.
 Hot vapor steamed out of opennings in the volcano.
-Sadly, the judge's verdict was that I was guilty.
+Sadly, the judge's verdict ['vɜːrdɪkt] was that I was guilty.
 I am tired of trying to satisfy my kid's whims.
 The conductor is leading the band.
 Tardiness is a bad habit, so learn to be on time.
@@ -153,7 +153,7 @@ The kid extolled the play, clapping for a long time.
 The shirtless man wears suspenders.
 You will have to pay two dallars at the turnpike.
 She had small abrasions on her skin from the fall.
-Piano is her real avocation; She plays it everyday.
+Piano is her real avocation [ˌævoʊ'keɪʃn]; She plays it everyday.
 All vertebrates have a spinal cord.
 Many cacti have spicky skins.
 The two balls counterbalance each other.
@@ -162,7 +162,7 @@ I used the match to rekindle the fire.
 The land is swampy, with many small pools of water.
 The treatment transmuted her skin, giving her a younger look.
 Giving blood is 100% voluntary; nobody will force you to do it.
-These ethnic minorites wear colorfull clothes.
+These ethnic 种族的 minorites wear colorfull clothes.
 Brushing my teeth is part of my daily routine.
 There's a tendency for increased sales to lead to increased profits.
 We go to the chapel to praise God.
